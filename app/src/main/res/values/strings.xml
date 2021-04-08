@@ -9,6 +9,10 @@
     <string name="btn_save_imc_history">Salvar resultado</string>
     <string name="btn_back_home">Voltar</string>
     <string name="description_logo">logitpo meu imc</string>
+    <string name="required_field">Preencha este campo</string>
+    <string name="error_data_height">Altura inválida</string>
+    <string name="error_data_weight">Peso inválido</string>
+
     <string-array name="result_message">
         <item>Abaixo do peso</item>
         <item>Peso normal</item>
